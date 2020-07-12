@@ -1,1 +1,1 @@
-# EKS
+# Amazon Elastic Kubernetes Service (EKS)
